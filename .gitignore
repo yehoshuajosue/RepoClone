@@ -1,0 +1,6 @@
+# BLACK List
+# Ignorando arquivo(s) por nome e extensão
+teste.txt
+
+# Ignorando todos os arquivos com o tipo da extensão '.txt'
+*.js
